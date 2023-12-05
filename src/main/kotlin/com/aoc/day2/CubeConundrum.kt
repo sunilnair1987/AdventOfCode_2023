@@ -98,6 +98,6 @@ object CubeConundrum {
 //            Game 5: 6 red, 1 blue, 3 green; 2 blue, 1 red, 2 green
 //        """.trimIndent()
 //        return testData.lines()
-        return File("/Users/sunilnair/IdeaProjects/AdventOfCode_2023/src/main/resources/day_2_input.txt").readLines()
+        return File("/Users/sunilnair/Git/AdventOfCode_2023/src/main/resources/day_2_input.txt").readLines()
     }
 }

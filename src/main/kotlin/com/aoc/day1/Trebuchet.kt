@@ -36,6 +36,6 @@ object Trubuchet {
     }
 
     private fun readInput() : List<String> {
-        return File("/Users/sunilnair/IdeaProjects/AdventOfCode_2023/src/main/resources/day_1_input.txt").readLines()
+        return File("/Users/sunilnair/Git/AdventOfCode_2023/src/main/resources/day_1_input.txt").readLines()
     }
 }
